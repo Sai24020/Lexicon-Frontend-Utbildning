@@ -3,7 +3,10 @@ This repository is intended for storing exercises completed as part of the cours
 
 ## List of the exercises:
 
-1. [07.01.2025 - JavaScript-här är simple jscode med debbag](https://github.com/Sai24020/JS-test)
+1. [15.01.2025 - JavaScript-här är DOM Manipulation träna med lärare](https://github.com/Sai24020/lektion15JS)
+2. [14.01.2025 - JavaScript-här är ](https://github.com/Sai24020/lextion14JS)
+3. [10.01.2025 - JavaScript-här är](https://github.com/Sai24020/lextion-10JS)
+4. [07.01.2025 - JavaScript-här är simple jscode med debbag](https://github.com/Sai24020/JS-test)
 1. [.01.2025 - App company project pågånde-här är bara figma design](https://www.figma.com/design/IxPAGsVbvwQrbHMToD8nQ3/DownloadOurApp?node-id=0-1&p=f&t=5QxAjbAM5XGjQPd1-0)
 2. [02.01.2025 - Planned Planthood](https://github.com/Sai24020/planned-planthood-new)
 3. [ - Animations bootcamp](https://codepen.io/Sai24020/pen/QwLvedr)****[17-12-2024 Träna övningara .Exercise här i den länk](https://github.com/Lexicon-Frontend-2024/exercise-html-css-responsivity)
