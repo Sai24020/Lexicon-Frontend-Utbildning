@@ -3,7 +3,7 @@ This repository is intended for storing exercises completed as part of the cours
 
 ## List of the exercises:
 
-1. [22.01.2025 - JavaScript-här är CODE REVIEW på bucket list](https://github.com/Sai24020/BucketList)
+1. [22.01.2025 - JavaScript-här är CODE REVIEW på bucket list](https://github.com/Sai24020/BucketList/blob/main/README.md)
 2. [15.01.2025 - JavaScript-här är DOM Manipulation träna med lärare](https://github.com/Sai24020/lektion15JS)
 3. [14.01.2025 - JavaScript-här är ](https://github.com/Sai24020/lextion14JS)
 4. [10.01.2025 - JavaScript-här är](https://github.com/Sai24020/lextion-10JS)
