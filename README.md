@@ -3,7 +3,7 @@ This repository is intended for storing exercises completed as part of the cours
 
 ## List of the exercises:
 
-1. [02.2025 - JavaScript-här Individuellt Project -DEMO](https://rawcdn.githack.com/Sai24020/DemoSuzan/a6c5ee5ef13c5ecd61fd30a72c5378eb2a066fbf/index.html)
+1. [02.2025 - JavaScript-här Individuellt Project -DEMO](http://127.0.0.1:3000/index.html)
 2. [03.02.2025 - JavaScript-här är Code review](https://github.com/Sai24020/DemoSuzan/blob/main/README.md)
 3. [22.01.2025 - JavaScript-här är CODE REVIEW på bucket list](https://github.com/Sai24020/BucketList/blob/main/README.md)
 4. [15.01.2025 - JavaScript-här är DOM Manipulation träna med lärare](https://github.com/Sai24020/lektion15JS)
