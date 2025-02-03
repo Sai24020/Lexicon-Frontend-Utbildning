@@ -4,7 +4,7 @@ This repository is intended for storing exercises completed as part of the cours
 ## List of the exercises:
 
 1. [02.2025 - JavaScript-här är Unsplash API demo](http://127.0.0.1:3000/index.html)
-2. [03.02.2025 - JavaScript-här är Code review]([http://127.0.0.1:3000/index.html](https://github.com/Sai24020/DemoSuzan/blob/main/README.md)
+2. [03.02.2025 - JavaScript-här är Code review](https://github.com/Sai24020/DemoSuzan/blob/main/README.md)
 3. [22.01.2025 - JavaScript-här är CODE REVIEW på bucket list](https://github.com/Sai24020/BucketList/blob/main/README.md)
 4. [15.01.2025 - JavaScript-här är DOM Manipulation träna med lärare](https://github.com/Sai24020/lektion15JS)
 5. [14.01.2025 - JavaScript-här är ](https://github.com/Sai24020/lextion14JS)
