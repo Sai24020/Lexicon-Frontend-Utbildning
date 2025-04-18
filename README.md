@@ -2,7 +2,7 @@
 This repository is intended for storing exercises completed as part of the course.
 
 ## List of the exercises:
-1. [04.2025 - Next.js och Tailwaind -här Individuellt Project -DEMO]()
+1. [04.2025 - Next.js och Tailwaind -här Individuellt Project -DEMO](https://github.com/Sai24020/suzan-project/blob/main/README.md)
 1. [02.2025 - JavaScript-här Individuellt Project -DEMO](http://127.0.0.1:5500/index.html)
 2. [03.02.2025 - JavaScript-här är Code review](https://github.com/Sai24020/DemoSuzan/blob/main/README.md)
 3. [22.01.2025 - JavaScript-här är CODE REVIEW på bucket list](https://github.com/Sai24020/BucketList/blob/main/README.md)
